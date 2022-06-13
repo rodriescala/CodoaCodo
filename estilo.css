@@ -1,0 +1,135 @@
+html {
+    box-sizing: border-box;
+    font-size: 62, 5%;
+
+}
+
+*,
+*::before,
+*:after {
+    box-sizing: inherit;
+
+}
+
+#link-verde1 {
+    color: #0F9736;
+}
+
+.fondoedificio {
+
+    -webkit-box-shadow: inset10px 10px 300px 200px rgba(0, 0, 0, 0.6);
+    -moz-box-shadow: inset 10px 10px 300px 200px rgba(0, 0, 0, 0.6);
+    box-shadow: inset 10px 10px 300px 200px rgba(0, 0, 0, 0.6);
+
+    background-image: url(IMAGENES/HEADER\ NAVEGADOR.jpg);
+    background-position: center;
+    height: 35rem;
+    background-size: cover;
+    position: relative;
+
+}
+
+.colocaciondetexto {
+
+    position: relative;
+    top: 18rem;
+    left: 2rem;
+    right: 8rem;
+}
+
+#link-verde {
+    background-color: #51DE62
+}
+
+.articulo2 {
+
+    box-sizing: border-box;
+    margin-top: 1%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 1%;
+
+
+
+}
+
+.btn-outline-secundary {
+    color: #fff;
+    border-color: #fff
+}
+
+#loremipsum {
+    text-align: left;
+
+}
+
+
+.conocealosoradores {
+    text-align: center;
+    font-size: small;
+
+}
+
+
+.footer {
+    background: linear-gradient(90deg, rgba(0, 20, 36, 1) 62%, rgba(0, 65, 106, 1) 100%, rgb(0, 47, 255) 100%);
+
+}
+
+
+.section {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+
+section div:nth-child(1) {
+    flex: 1;
+}
+
+section div:nth-child(2) {
+    flex: 1;
+}
+
+
+
+#botonenviar {
+    background-color: #8DCD2A;
+    color: #FFFFFF;
+
+}
+
+.contenedor-de-articulo {
+    position: relative;
+}
+
+.articulo {
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+
+
+}
+
+#ConfBsAslogo{
+    color: #fff;
+}
+
+.bordepunteado{
+    border-bottom:1px dotted #000;
+    text-decoration:none;
+ }
+
+
+.formulario {
+    box-sizing: border-box;
+    margin-top: 1%;
+    margin-left: 0%;
+    margin-right: 50%;
+    margin-bottom: 1%;
+
+
+}
+
+
